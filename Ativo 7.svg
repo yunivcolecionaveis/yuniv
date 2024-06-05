@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178.47 178.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        font-family: Allotrope-ExtraBold, Allotrope;
+        font-size: 34.15px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        stroke-width: 8.47px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-width: 8.51px;
+      }
+
+      .cls-4 {
+        stroke-width: 8.49px;
+      }
+    </style>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <text class="cls-1" transform="translate(38.44 83.07) rotate(-70.86)"><tspan x="0" y="0">P</tspan></text>
+    <text class="cls-1" transform="translate(44.54 64.09) rotate(-47.99)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-1" transform="translate(58.05 48.2) rotate(-23.8)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-1" transform="translate(78.36 38.84) rotate(.93)"><tspan x="0" y="0">D</tspan></text>
+    <text class="cls-1" transform="translate(99.72 38.67) rotate(24.72)"><tspan x="0" y="0">U</tspan></text>
+    <text class="cls-1" transform="translate(119.41 47.7) rotate(47.09)"><tspan x="0" y="0">T</tspan></text>
+    <text class="cls-1" transform="translate(132.13 60.07) rotate(69.32)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-1" transform="translate(14.63 104.23) rotate(69.45)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-1" transform="translate(28.09 134.36) rotate(45.08)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-1" transform="translate(50.01 153.62) rotate(27.45)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-1" transform="translate(65.46 161.49) rotate(9.99)"><tspan x="0" y="0">G</tspan></text>
+    <text class="cls-1" transform="translate(93.79 164.62) rotate(-7.32)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-1" transform="translate(111.42 162.36) rotate(-26.13)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-1" transform="translate(140.95 145.61) rotate(-51.86)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-1" transform="translate(159.54 118.27) rotate(-74.19)"><tspan x="0" y="0">L</tspan></text>
+    <circle class="cls-2" cx="89.24" cy="89.24" r="85"/>
+    <circle class="cls-3" cx="89.74" cy="88.74" r="41.5"/>
+    <polyline class="cls-4" points="68.99 89.22 81.83 103.3 110.64 78.03"/>
+  </g>
+</svg>
