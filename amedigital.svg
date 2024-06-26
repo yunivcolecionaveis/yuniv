@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 41">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #14017f;
+      }
+
+      .cls-4 {
+        fill: #d51058;
+      }
+
+      .cls-5 {
+        fill: #eae6e1;
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="59" height="41"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_5580" data-name="Grupo 5580">
+    <g class="cls-1">
+      <g id="Grupo_5579" data-name="Grupo 5579">
+        <path id="Caminho_3073" data-name="Caminho 3073" class="cls-5" d="M56.94,0c1.26,0,2.28,1.02,2.28,2.28v36.44c0,1.26-1.02,2.28-2.28,2.28H2.29c-1.26,0-2.28-1.02-2.29-2.28V2.28C0,1.02,1.03,0,2.29,0h54.65Z"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-4" d="M47.71,12.52h0s-5.31-5.26-5.31-5.26c-1.33-1.31-3.47-1.31-4.81,0l-5.7,5.65c-1.33,1.32-3.47,1.32-4.8,0l-5.7-5.65c-1.33-1.31-3.47-1.31-4.81,0l-5.31,5.26h0c-1.47,1.46-1.55,3.81-.18,5.36l15.99,15.86c1.33,1.32,3.47,1.32,4.8,0l15.99-15.86c1.37-1.56,1.29-3.91-.18-5.37"/>
+    <path class="cls-3" d="M27.1,12.91c1.33,1.31,3.47,1.31,4.81,0l5.7-5.65c.61-.6,1.42-.95,2.27-.98h0s-20.75,0-20.75,0h0c.86.04,1.67.38,2.28.99l5.69,5.65Z"/>
+  </g>
+</svg>
