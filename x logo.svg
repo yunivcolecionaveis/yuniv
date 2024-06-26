@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Grupo_5494" data-name="Grupo 5494" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48.04 47.21">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #000;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="48.04" height="47.21"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_5483" data-name="Grupo 5483">
+    <g class="cls-1">
+      <g id="Grupo_5477" data-name="Grupo 5477">
+        <path id="Caminho_2967" data-name="Caminho 2967" class="cls-3" d="M48.04,23.61c0,20.52-10.76,23.61-24.02,23.61S0,44.12,0,23.61,10.76,0,24.02,0s24.02,3.09,24.02,23.61"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-4" d="M35.75,34.76l-9.18-13.33-1.04-1.51-6.56-9.54-.54-.79h-8.07l1.97,2.86,8.73,12.68,1.04,1.51,7.01,10.19.54.79h8.07l-1.97-2.86ZM30.61,35.79l-7.29-10.59-1.04-1.51-8.45-12.28h3.64l6.84,9.93,1.04,1.51,8.9,12.93h-3.64Z"/>
+    <polygon class="cls-4" points="22.28 23.7 23.32 25.21 22.09 26.64 12.66 37.62 10.33 37.62 21.05 25.13 22.28 23.7"/>
+    <polygon class="cls-4" points="36.74 9.59 26.57 21.43 25.34 22.86 24.3 21.35 25.53 19.92 32.42 11.9 34.42 9.59 36.74 9.59"/>
+  </g>
+</svg>
